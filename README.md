@@ -68,3 +68,6 @@ ADD R5       ; ACC + R5
 ADD R6       ; ACC + R6 (which is R5 + R6)
 MOV R7, ACC  ; Store the result in R7
 HLT          ; Stop the program
+```
+###Simulation Result
+![Simulation Result Waveform](https://github.com/KailashDusad/Tiny-Processor/blob/main/Simulation%20Result.png)
